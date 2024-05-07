@@ -90,17 +90,6 @@
       "ratings": "4"
     },
     {
-      "id": "e2d3",
-      "category": "Beverages",
-      "restaurant": "Appy",
-      "name": "Fizz Apple Juice(600ml)",
-      "price": "32",
-      "quantity": "10",
-      "description": " No Added Sugar, 600ml, Bottle",
-      "url": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/50b1014dcc069362c885da0aeebd1951",
-      "ratings": "4"
-    },
-    {
       "category": "Desserts",
       "restaurant": "BBC Foods",
       "name": "Chocolate Brownie",
@@ -134,17 +123,6 @@
       "ratings": "4"
     },
     {
-      "id": "4b44",
-      "category": "Beverages",
-      "restaurant": "Thirty3",
-      "name": "Cold Aamras Juice",
-      "price": "71",
-      "quantity": "10",
-      "description": "Ripe mango Goodness, Naturally sweet, No Added Sugar",
-      "url": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/781b943a308f91b4e576717e2e23bde2",
-      "ratings": "4"
-    },
-    {
       "id": "1d47",
       "category": "Chinese",
       "restaurant": "Swathi's Recipes",
@@ -167,6 +145,17 @@
       "ratings": "5"
     },
     {
+      "id": "4b44",
+      "category": "Beverages",
+      "restaurant": "Thirty3",
+      "name": "Cold Aamras Juice",
+      "price": "71",
+      "quantity": "10",
+      "description": "Ripe mango Goodness, Naturally sweet, No Added Sugar",
+      "url": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/781b943a308f91b4e576717e2e23bde2",
+      "ratings": "4"
+    },
+    {
       "id": "9b0b",
       "category": "Beverages",
       "restaurant": "Coco-Cola",
@@ -175,6 +164,17 @@
       "quantity": "10",
       "description": " No Added Sugar, 300ml",
       "url": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/1ca9cfcdd79460b60c064b48a9eecd20",
+      "ratings": "4"
+    },
+    {
+      "id": "e2d3",
+      "category": "Beverages",
+      "restaurant": "Appy",
+      "name": "Fizz Apple Juice(600ml)",
+      "price": "32",
+      "quantity": "10",
+      "description": " No Added Sugar, 600ml, Bottle",
+      "url": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/50b1014dcc069362c885da0aeebd1951",
       "ratings": "4"
     }
   ]
